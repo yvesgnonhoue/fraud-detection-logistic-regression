@@ -27,7 +27,7 @@ Projet de modélisation statistique du risque ciblant la détection de transacti
 - **Visualisation :** Matplotlib, Seaborn[cite: 4]
 - **Environnement & Rapport :** Jupyter, PyCharm, LaTeX[cite: 4]
 
-## 💻 Exécution du Projet
+### 💻 Exécution du Projet
 
 1. **Cloner le projet :**
    ```bash
