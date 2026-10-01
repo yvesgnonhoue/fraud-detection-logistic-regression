@@ -1,6 +1,3 @@
-### `regression-logistique-de-detection-de-fraude`
-
-```markdown
 # 💳 Détection de Fraude par Carte Bancaire : Régression Logistique & GLM
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
@@ -22,12 +19,12 @@ Projet de modélisation statistique du risque ciblant la détection de transacti
 - **AUPRC :** `0,742` (métrique de référence pour classification déséquilibrée)
 
 ## 🛠️ Technologies Utilisées
-- **Langage :** Python[cite: 4]
-- **Analyse & Stats :** Statsmodels, Scikit-learn, Pandas, NumPy[cite: 4]
-- **Visualisation :** Matplotlib, Seaborn[cite: 4]
-- **Environnement & Rapport :** Jupyter, PyCharm, LaTeX[cite: 4]
+- **Langage :** Python
+- **Analyse & Stats :** Statsmodels, Scikit-learn, Pandas, NumPy
+- **Visualisation :** Matplotlib, Seaborn
+- **Environnement & Rapport :** Jupyter, PyCharm, LaTeX
 
-### 💻 Exécution du Projet
+## 💻 Exécution du Projet
 
 1. **Cloner le projet :**
    ```bash
