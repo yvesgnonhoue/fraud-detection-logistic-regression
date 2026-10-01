@@ -1,5 +1,4 @@
-### 3. Pour le dépôt `regression-logistique-de-detection-de-fraude`
-*(À coller dans le `README.md` du dépôt `regression-logistique-de-detection-de-fraude`)*[cite: 5]
+### `regression-logistique-de-detection-de-fraude`
 
 ```markdown
 # 💳 Détection de Fraude par Carte Bancaire : Régression Logistique & GLM
